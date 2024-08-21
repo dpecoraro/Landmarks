@@ -17,7 +17,6 @@ struct FavoriteButton: View {
                 .labelStyle(.iconOnly)
                 .foregroundStyle(isSet ? .yellow : .gray)
         }
-        Text(/*@START_MENU_TOKEN@*/"Hello, World!"/*@END_MENU_TOKEN@*/)
     }
 }
 
